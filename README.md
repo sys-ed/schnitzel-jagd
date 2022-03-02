@@ -9,4 +9,7 @@ To build the hunt you require a GNU/Linux system, a C and Go compiler.
 
 ## Pursuits
 
-### Start with the start
+### Begin with the start
+
+Have a look at system calls, assembly and how the system provides means
+to understand what is happening. The tasks can be completed out of order.
